@@ -82,6 +82,8 @@ Retentive Timer: The output should turn on after the accumulated time reaches th
 
 # Simulation Screenshots 
 
+ON DELAY:
+
 ![WhatsApp Image 2025-02-28 at 16 13 14_379c23fd](https://github.com/user-attachments/assets/873a39cd-ee1e-4c54-a3d5-25f3a89d4364)
 
 ![WhatsApp Image 2025-02-28 at 16 11 09_f6fe32cc](https://github.com/user-attachments/assets/725fa535-f720-4a8e-b1f1-47786b64f827)
@@ -90,20 +92,23 @@ Retentive Timer: The output should turn on after the accumulated time reaches th
 
 ![WhatsApp Image 2025-02-28 at 16 14 07_30205dc5](https://github.com/user-attachments/assets/e8d2b31e-6f28-4b8b-97c0-32fcf0f7a148)
 
+REAL_LIFE EXAMPLES:
 
+1.Develop a logic ladder that reads sensory data from 2 sensors and initialize the timer and switch on a output after 5 secs of delay
 
+# Simulation Screenshots
 
+![ex 2 ss1](https://github.com/user-attachments/assets/24059e79-d0f4-4d21-9604-127e896c19b2)
 
+![ex 2 ss2](https://github.com/user-attachments/assets/ac8964f8-a9d2-4d24-8c82-3589864d26d7)
 
+2.Develop a ladder logic using timer blocks to initialize the process of stamping where the operator uses its two hands to switch on the machine,the stamping duration starts after 5 seconds, select appropriate time block.
 
+# Simulation Screenshots
 
+![ex 2 ss3](https://github.com/user-attachments/assets/ab0c3690-eb7a-473d-934c-a2c35bd5b387)
 
-
-
-
-
-
-
+![ex 2 ss4](https://github.com/user-attachments/assets/5aecd21e-c7ef-4135-abfa-11f527e88dbb)
 
 # Results:
 The ladder logic programs for ON-delay, OFF-delay, and Retentive timers were successfully implemented and tested.
